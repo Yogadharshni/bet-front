@@ -1,5 +1,7 @@
 Please use
+
 => Mail as admin@gmail.com
-=> Password as admin@123
+
+=> Name as admin
 
 Admin can send mail to all the registered people by logging in through above credentials.
